@@ -11,6 +11,9 @@ function Home() {
           alt="Showcase_img"
         />
       </div>
+      <div className="home__row"></div>
+      <div className="home__row"></div>
+      <div className="home__row"></div>
     </div>
   );
 }
