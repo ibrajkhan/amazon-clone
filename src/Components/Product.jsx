@@ -14,10 +14,6 @@ function Product({ title, price, image, ratings }) {
           {Array(ratings).fill(<p>&#11088;</p>)}
         </div>
       </div>
-      {/*<img
-        src="https://m.media-amazon.com/images/I/81vvgZqCskL._AC_UY218_.jpg"
-        alt=""
-      />*/}
       <img src={image} alt="" />
       <button>Add to Basket</button>
     </div>
