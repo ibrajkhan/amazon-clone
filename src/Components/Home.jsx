@@ -42,17 +42,17 @@ function Home() {
         <div className="home__row">
           <Product
             title={
-              "Casio Edifice Analog Black Dial Men's Watch - EF-130D-1A2VDF(ED417)"
+              "Fire-Boltt Beast SpO2 1.69” Smart Watch with Blood Oxygen Monitoring, Heart Rate Monitor,"
             }
-            price={"6,995.00"}
+            price={"3,999.00"}
             image={
-              "https://m.media-amazon.com/images/I/717D-Xov9nL._AC_UL320_.jpg"
+              "https://m.media-amazon.com/images/I/61lA9eKky4S._AC_UY218_.jpg"
             }
             ratings={4}
           />
           <Product
             title={
-              "2021 Apple 11-inch iPad Pro with Apple M1 chip (Wi-Fi + Cellular, 256GB) - Space Grey (3rd Generation)"
+              "2021 Apple 11-inch iPad Pro with Apple M1 chip (Wi-Fi + Cellular, 256GB)"
             }
             price={" 94,900.00"}
             image={
@@ -62,11 +62,11 @@ function Home() {
           />
           <Product
             title={
-              "Echo Dot (3rd Gen) - #1 smart speaker brand in India with Alexa (Black)"
+              "All-new Echo Dot (4th Gen) with clock | Next generation smart speaker with improved bass"
             }
-            price={"2,899.00"}
+            price={"4,799.00"}
             image={
-              "https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_UY218_.jpg"
+              "https://m.media-amazon.com/images/I/61u0y9ADElL._AC_UY218_.jpg"
             }
             ratings={4}
           />
