@@ -13,6 +13,7 @@ function Home() {
         />
         <div className="home__row">
           <Product
+            id="687657"
             title={
               "Zero to One: Notes on Start Ups, or How to Build the Future Paperback"
             }
@@ -23,6 +24,7 @@ function Home() {
             ratings={5}
           />
           <Product
+            id="987468"
             title={
               "Lifelong FitPro LLTM09 (2.5 HP Peak) Motorized Treadmill for Home with 12 preset Workouts, Max Speed 10km/hr. (Free Installation Assistance)"
             }
@@ -33,6 +35,7 @@ function Home() {
             ratings={4}
           />
           <Product
+            id="889417"
             title={"Canon M50 Mark II 15-45mm f3.5-6.3 is STM"}
             price={"58,878.00"}
             image={"https://m.media-amazon.com/images/I/51L75Bk2fCS.jpg"}
@@ -41,6 +44,7 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
+            id="123456"
             title={
               "Fire-Boltt Beast SpO2 1.69” Smart Watch with Blood Oxygen Monitoring, Heart Rate Monitor,"
             }
@@ -51,6 +55,7 @@ function Home() {
             ratings={4}
           />
           <Product
+            id="123457"
             title={
               "2021 Apple 11-inch iPad Pro with Apple M1 chip (Wi-Fi + Cellular, 256GB)"
             }
@@ -61,6 +66,7 @@ function Home() {
             ratings={3}
           />
           <Product
+            id="998454"
             title={
               "All-new Echo Dot (4th Gen) with clock | Next generation smart speaker with improved bass"
             }
@@ -71,6 +77,7 @@ function Home() {
             ratings={4}
           />
           <Product
+            id="687457"
             title={
               "OnePlus Bullets Wireless Z in-Ear Bluetooth Earphones with Mic (Black) + Powerbank"
             }
@@ -83,6 +90,7 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
+            id="165847"
             title={
               "Samsung 138 cm (55 inches) 4K Ultra HD Smart LED TV 55Q8CN (Black) (2018 model)"
             }
@@ -93,6 +101,7 @@ function Home() {
             ratings={4}
           />
           <Product
+            id="284657"
             title={
               "Impex FUSION 140 Watts 5.1 Channel Multimedia Speaker System with USB/SD/MMC Card/Bluetooth/FM Radio & Remote Function (Black)"
             }
