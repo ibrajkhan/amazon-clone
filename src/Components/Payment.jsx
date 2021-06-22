@@ -46,6 +46,7 @@ function Paymemt() {
         },
       })
       .then(({ paymentIntent }) => {
+        //paymentIntent = payment confirmation
         setSucceeded(true);
         setError(null);
         setProcessing(false);
