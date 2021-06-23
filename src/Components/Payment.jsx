@@ -35,6 +35,8 @@ function Paymemt() {
     getClientSecret();
   }, [basket]);
 
+  console.log("This is client Secret >>>", clientSecret);
+
   const handelSubmit = async (event) => {
     event.preventDefault();
     setProcessing(true);
@@ -50,6 +52,9 @@ function Paymemt() {
         setSucceeded(true);
         setError(null);
         setProcessing(false);
+        dispatch({
+          type: "EMPTY_BASKET",
+        });
         history.replace("/orders");
       });
   };
