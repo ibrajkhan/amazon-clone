@@ -50,6 +50,7 @@ function Paymemt() {
       })
       .then(({ paymentIntent }) => {
         //paymentIntent = payment confirmation
+        //when orders come back successful we reach the database
         db.collection("users")
           .doc(user?.uid)
           .collection("orders")
