@@ -12,6 +12,11 @@
   margin-top: 10px;
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
+  padding: 4px 6px;
+  border-radius: 0.3em;
+}
+.checkoutProducts_info > button:hover {
+  background-color: #dfaf37;
 }
 .checkoutProducts__image {
   object-fit: contain;

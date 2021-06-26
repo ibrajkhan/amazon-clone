@@ -27,6 +27,11 @@
   margin-top: 10px;
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
+  padding: 4px 6px;
+  border-radius: 0.3em;
+}
+.product > button:hover {
+  background-color: #dfaf37;
 }
 .product__info {
   height: 100px;

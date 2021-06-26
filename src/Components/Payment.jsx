@@ -90,6 +90,7 @@ function Paymemt() {
             <p>{user?.email}</p>
             <p>12/A, Ali Nagar</p>
             <p>Bhandaridih, Giridih</p>
+            <p>Jharkhand</p>
           </div>
         </div>
         <div className="payment__section">
